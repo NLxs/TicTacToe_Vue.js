@@ -1,3 +1,6 @@
+# 在线预览
+## https://nlxs.github.io/TicTacToe_Vue.js/dist/index.html
+
 # vue-demo-1
 
 # vuejs版的井字棋
